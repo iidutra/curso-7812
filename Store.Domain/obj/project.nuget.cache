@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z9vpMljyJQhbyP0cqCn0akMw0YSUUybTE9SGDOHjJ7WvLJWIZLIK38m3v375rTEC/qZLGeAoTanGhrXlJBFO8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\01849887217\\curso-balta\\Store.Domain\\Store.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\01849887217\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
